@@ -1,19 +1,4 @@
-# cs-nlp-word-clustering
-
-Implementation of word clustering such as Brown Clustering and One-Link Clustering in .NET
-
-# Install
-
-```bash 
-Install-Package cs-nlp-word-clustering
-```
-
-# Usage
-
-The sample code show show how to use the BrownClustering to cluster words:
-
-```cs 
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Xml;
@@ -75,7 +60,6 @@ namespace WordClustering
             doc.Save("BrownClusteringResult.xml");
 
         
-		}
+    }
     }
 }
-```
