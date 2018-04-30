@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>cs-nlp-word-clustering</id>
+    <version>1.0.1</version>
+    <authors>cschen1205</authors>
+    <owners>cschen1205</owners>
+    <licenseUrl>https://github.com/cschen1205/cs-nlp-word-clustering/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/cschen1205/cs-nlp-word-clustering</projectUrl>
+    <iconUrl>https://rawgit.com/cschen1205/cs-nlp-word-clustering/master/icon.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Word Clustering implemented in .NET 4.6.1</description>
+    <releaseNotes>Word Clustering implemented in .NET 4.6.1</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Brown-Clustering, Word-Clustering, One-Linkage-Clustering, c-sharp</tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>
